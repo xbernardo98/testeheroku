@@ -1,0 +1,56 @@
+.container-fluid{
+  background-color: #F8F8F8;  
+}
+html{
+  background-color: #F8F8F8;
+}
+h2{
+  padding-top: 20px;
+  color: #707070;
+}
+h5{
+  padding: 5px;
+  float: left;
+  color: #707070;
+}
+h6{
+  float: left;
+  background-color: #DFDFDF;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 20px;
+}
+svg{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.svg_line{
+  height: 400px;
+  stroke:rgb(126, 126, 126);stroke-width:1
+}
+.svg_line col-sm{
+  fill-opacity: 100%;
+  
+}
+.line{
+  float: left;
+  padding: 5px; 
+  stroke:rgb(126, 126, 126);
+  stroke-width:1px;
+}
+.column {
+  text-align: center;
+  padding: 30px;
+  margin: auto;
+}
+.img_perfil{
+  border-radius: 50%;
+  float: left;
+  width:30%
+}
+p{
+  padding: 10px;
+}
+.conteudo_1{
+  margin-top: 20px;
+}
